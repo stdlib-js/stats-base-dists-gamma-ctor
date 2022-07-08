@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-gamma-ctor",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Gamma distribution constructor.",
   "license": "Apache-2.0",
   "author": {
