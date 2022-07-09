@@ -63,7 +63,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.Gamma;
+})();
 })();
 </script>
 ```
@@ -311,6 +313,7 @@ y = gamma.quantile( 1.9 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-ctor@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var gamma = new Gamma( 2.0, 4.0 );
 
@@ -326,6 +329,7 @@ var s2 = gamma.variance;
 var y = gamma.cdf( 0.8 );
 // returns ~0.829
 
+})();
 })();
 </script>
 </body>
