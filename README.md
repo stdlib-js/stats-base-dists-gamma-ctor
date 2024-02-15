@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Gamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-ctor@deno/mod.js';
+import Gamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-ctor@v0.2.0-deno/mod.js';
 ```
 
 #### Gamma( \[alpha, beta] )
@@ -292,7 +292,7 @@ y = gamma.quantile( 1.9 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import Gamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-ctor@deno/mod.js';
+import Gamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-ctor@v0.2.0-deno/mod.js';
 
 var gamma = new Gamma( 2.0, 4.0 );
 
