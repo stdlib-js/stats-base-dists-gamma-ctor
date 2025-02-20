@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-09)
+## Unreleased (2025-02-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f7988d3`](https://github.com/stdlib-js/stdlib/commit/f7988d3c02e0eff3bd9bd7523b5dc975bb98dc0e) - **bench:** fix `isnan` checks in `stats/base/dists` [(#5296)](https://github.com/stdlib-js/stdlib/pull/5296) _(by Karan Anand)_
 -   [`c7860af`](https://github.com/stdlib-js/stdlib/commit/c7860af1896d84360294b65f3e37982ca631c435) - **bench:** refactor random number generation in `stats/base/dists/gamma` [(#4929)](https://github.com/stdlib-js/stdlib/pull/4929) _(by Karan Anand)_
 
 </details>
